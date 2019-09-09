@@ -31,5 +31,8 @@ class A{
 		void MA2(){
 			cout <<"MA2"<<endl;
 		}
-	
+		
+		void MA3(){
+			cout<< "MA3" << endl;
+		}
 };
